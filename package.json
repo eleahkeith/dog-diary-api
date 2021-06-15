@@ -1,0 +1,12 @@
+{
+  "name": "dog-diary-api",
+  "version": "1.0.0",
+  "description": "back end for dog walk diary",
+  "main": "index.js",
+  "author": "Leah Keith",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
